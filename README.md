@@ -28,7 +28,7 @@ At this point you need to press the power button on the Ultra96-V2
 ![image](https://github.com/AILearnerLi/Ultra96-V2-PMIC-Programming-Update-Procedure/blob/master/4.jpg) 
 
 After turning on the power, press the autopopulate button in the GUI again and you should see all three devices show up as is shown below. Press the circled “clear faults” button to remove false warnings that occur at startup so that all outputs are “green”  
-
+![image](https://github.com/AILearnerLi/Ultra96-V2-PMIC-Programming-Update-Procedure/blob/master/5_0.jpg) 
 ![image](https://github.com/AILearnerLi/Ultra96-V2-PMIC-Programming-Update-Procedure/blob/master/5.jpg) 
 
 At this point you are ready to load the new configuration files. First click on device x14 from the device tree, then click on the Design Wizard tab
