@@ -4,15 +4,16 @@ This document is from Xilinx summer school 2020.
 
 This document outlines the procedure for updating the programming file for the Ultra96-V2. You will need the Ultra96-V2, an Infineon programming dongle (PN USB005) and the Infineon PowIRCenter GUI software. 
 
-
 https://www.infineon.com/cms/en/product/promopages/power-center-software/
+
 You will also need the USB to PMBus header. The part number for the dongle is Infineon USB005: https://www.infineon.com/cms/en/product/power/dc-dc-converter/digital-dc-dc-multiphase-controller/usb005/
+
 The new configuration file is available through your local FAE. You may request the file from the following web portal – Avnet.me/AvnetProgrammingFiles
 
 
 The Ultra96-V2 board will need to have the 3 pin header installed on the board as shown in the image below. Samtec has these headers available here - https://www.samtec.com/products/tsw
 
- 
+![image](https://github.com/AILearnerLi/Ultra96-V2-PMIC-Programming-Update-Procedure/blob/master/1.png) 
 
 
 
